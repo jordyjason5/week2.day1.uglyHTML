@@ -1,0 +1,29 @@
+body{
+    background-color: RGB(53,53,53);
+    color: whitesmoke;
+}
+header{
+    font-family:"tangerine",cursive;
+    font-size: 72px;
+    text-align: center;
+}
+h3{
+    font-family: "Unica One", cursive;
+    font-size: 26px;
+    text-align: center;
+}
+
+img{
+    width: 540px;
+}
+.top{
+    text-align: center;
+}
+.text{
+    border-radius: 13px;
+    width: 2px;
+    display: inline-block;
+    border-color: #FDEFA6 solid;
+    background-color: #1A1818;
+    text-align: center;
+}
